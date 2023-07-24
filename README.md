@@ -24,16 +24,16 @@
             
                 <tr>
                     <td> CDC </td>
-                    <td>   Lama Haayo
-                        <td>Z  
+                    <td>   86
+                        <td>B+  
                     </td>
                     <td> CAAFIMAAD
                     </td>
                 </tr>
                 <tr>
                     <td> ANATOMY </td>
-                    <td>Lama Hayo  
-                        <td> Z
+                    <td>100 
+                        <td> A+
                     </td>
                     <td> CAAFIMAAD
                     </td>
@@ -41,23 +41,23 @@
                
                 <tr>
                         <td>PHYSIOLOGY </td>
-                        <td>Lama hayo</td>
-                        <td> Z
+                        <td>94</td>
+                        <td> A
                         <td> CAAFIMAAD
                         </td>
                     </tr>
                     <tr>
                         <td> PHARMACOLOGY</td>
-                        <td>Lama Hayo</td>
-                        <td> Z
+                        <td>96</td>
+                        <td> A+
                         <td> CAAFIMAAD
                         </td>
                     </tr>
                     
                     <tr>
                             <td> NUTRITION</td>
-                            <td>Lama Hayo</td>
-                            <td> Z
+                            <td>92</td>
+                            <td> A+
                             <td> CAAFIMAAD
                             </td> 
                         </tr>    
