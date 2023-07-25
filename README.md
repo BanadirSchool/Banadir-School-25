@@ -57,7 +57,7 @@
                     <tr>
                             <td> NUTRITION</td>
                             <td>92</td>
-                            <td> A+
+                            <td> A
                             <td> CAAFIMAAD
                             </td> 
                             
